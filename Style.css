@@ -1,0 +1,108 @@
+			body{
+				background-image: url("background.jpg");
+			}
+			h1{
+				font-family: verdana;
+				font-size: 250%;
+				font-weight: bold;
+			}
+			div#HeadLine{
+				text-align: center;
+				text-decoration: underline;
+				background-image: url("HeadLineBackground.jpg");
+			}
+			div#consoleHistory{
+				text-align: left;
+				font-family: verdana;
+				font-size: 110%;
+				background-color: white;
+			}
+			div#introduction{
+			}
+			span#title{
+				font-size: 150%;
+				font-weight: bold;
+				text-decoration: underline;
+				margin-left: 10px;
+			}
+			div#secondGeneration{
+				margin-top: 50px;
+			}
+			div#thirdGeneration{
+				margin-top: 70px;
+			}
+			div#fourthToEightGeneration{
+				margin-top: 50px;
+			}
+			div#firstGenerationText{
+				
+				
+			}
+			div#secondGenerationText{
+			}
+			div#thirdGenerationText{
+
+			}
+			div#fourthToEightGenerationText{
+
+			}
+			span.generations{
+				font-size: 120%;
+				font-weight: bold;
+				margin-left: 10px;
+			}
+			div#imageOdyssey{
+				width: 300px;
+				height: 148px;
+				background-image: url("Odyssey.jpg");
+				border: 1px black;
+				border-style: solid;
+			}
+			div#imageAtari{
+				width: 360px;
+				height: 150px;
+				background-image: url("atari.jpg");
+				border: 1px black;
+				border-style: solid;
+			}
+			div#imageFamicom{
+				width: 250px;
+				height: 230px;
+				background-image: url("Famicom.jpg");
+				border: 1px black;
+				border-style: solid;
+			}
+			div#imageSnes{
+				width: 230px;
+				height: 160px;
+				background-image: url("SNES.jpg");
+				border: 1px black;
+				border-style: solid;
+			}
+			div#imagePSOne{
+				width: 180px;
+				height: 150px;
+				background-image: url("psone.jpg");
+				border: 1px black;
+				border-style: solid;
+			}
+			div#imagePS4{
+				width: 350px;
+				height: 250px;
+				background-image: url("ps4.jpg");
+				border: 1px black;
+				border-style: solid;
+			}
+			div.textPicture{
+				float:right;
+				text-align: center;
+				font-size: 80%;
+				margin-right: 50px;
+			}
+			div#textPicturePS4{
+				float:left;
+				text-align: center;
+				font-size: 80%;
+				margin-right: 50px;
+			}
+			
